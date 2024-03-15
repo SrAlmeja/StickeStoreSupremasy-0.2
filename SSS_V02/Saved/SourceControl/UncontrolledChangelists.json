@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Azul 21/Documents/Repos/AlmejaRepos/StickeStoreSupremasy-0.2/SSS_V02/Content/StartContent/AlmejaStudio/Levels/00_Grid_Practice.umap",
+				"C:/Users/Azul 21/Documents/Repos/AlmejaRepos/StickeStoreSupremasy-0.2/SSS_V02/Content/StartContent/AlmejaStudio/Code/BluePrints/BP_CameraPawn.uasset",
+				"C:/Users/Azul 21/Documents/Repos/AlmejaRepos/StickeStoreSupremasy-0.2/SSS_V02/Content/StartContent/AlmejaStudio/Code/BluePrints/BP_Practice/BP_Grass.uasset",
+				"C:/Users/Azul 21/Documents/Repos/AlmejaRepos/StickeStoreSupremasy-0.2/SSS_V02/Content/StartContent/AlmejaStudio/Code/BluePrints/BP_Practice/BPGround.uasset",
+				"C:/Users/Azul 21/Documents/Repos/AlmejaRepos/StickeStoreSupremasy-0.2/SSS_V02/Content/StartContent/AlmejaStudio/Code/GameMode/GM_Play.uasset",
 				"D:/Proyectos Unity/8vo/StickeStoreSupremasy-0.2/SSS_V02/Content/StartContent/AlmejaStudio/Levels/01_Level.umap",
 				"D:/Proyectos Unity/8vo/StickeStoreSupremasy-0.2/SSS_V02/Content/StartContent/AlmejaStudio/PostProcess/PP_OutlineShader.uasset",
 				"D:/Proyectos Unity/8vo/StickeStoreSupremasy-0.2/SSS_V02/Content/StartContent/AlmejaStudio/PostProcess/PPI_OutlineShader.uasset",
